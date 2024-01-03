@@ -24,8 +24,8 @@ static const char* TAG = "camera";
 #define ESP_WIFI_PASS ""
 #else
 
-#define ESP_WIFI_SSID "WIFI-NAME"
-#define ESP_WIFI_PASS "WIFI-PASSWORD"
+#define ESP_WIFI_SSID "TVSlow Internet Connection"
+#define ESP_WIFI_PASS "1,tpGfhjkz2"
 
 #endif
 
